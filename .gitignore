@@ -1,3 +1,4 @@
 /mailData
 config.json
 *.doc
+.idea
