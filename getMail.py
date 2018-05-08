@@ -101,5 +101,6 @@ def main():
     finally:
         logout_imap(M)
 
+
 if __name__ == "__main__":
     main()
